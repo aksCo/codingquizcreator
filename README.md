@@ -34,8 +34,8 @@ https://aksco.github.io/codingquizcreator/
 
 Run the index file ensuring that it opens in Google Chrome for optimal results.
 
-![Screenshot of Page](assets/images/.Screenshot1)
-![Screenshot of Page](assets/images/.Screenshot2)
+![Screenshot of Page](assets/images/.img1)
+![Screenshot of Page](assets/images/.img2)
 
 ## Credits/Collaboration
 
